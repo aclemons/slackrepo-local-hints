@@ -1,0 +1,3 @@
+GROUPADD="225:amavis"
+USERADD="225:amavis:-d/var/lib/amavis:-s/bin/bash"
+ADDREQUIRES="perl-Convert-TNEF perl-Convert-UUlib perl-Convert-BinHex perl-Archive-Zip perl-IO-stringy perl-MIME-tools perl-Unix-Syslog perl-BerkeleyDB perl-IO-Multiplex perl-Net-LibIDN zeromq"

@@ -1,0 +1,3 @@
+ADDREQUIRES="postgresql"
+OPTIONS="DBs="free""
+DOWNLOAD="http://pkgs.fedoraproject.org/repo/pkgs/lua-dbi/luadbi.0.5.tar.gz/ede2b003aadddc151aac87050c3d926e/luadbi.0.5.tar.gz"
