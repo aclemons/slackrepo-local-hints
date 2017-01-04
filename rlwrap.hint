@@ -1,1 +1,3 @@
-DOWNLOAD="https://github.com/hanslub42/rlwrap/archive/v0.37.tar.gz"
+VERSION="0.42"
+DOWNLOAD="https://github.com/hanslub42/rlwrap/archive/v0.42/rlwrap-0.42.tar.gz"
+MD5SUM="6db341971cdb8bedfecf0a293e7cfff4"
