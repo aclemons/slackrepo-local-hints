@@ -1,0 +1,4 @@
+VERSION="2.3.4"
+MD5SUM_x86_64="15f37e8bf1700f9270414cceb9708a67"
+DOWNLOAD_x86_64="https://downloads.slack-edge.com/linux_releases/slack-desktop-2.3.4-amd64.deb"
+ARCH="x86_64"
