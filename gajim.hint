@@ -1,4 +1,4 @@
-ADDREQUIRES="python-axolotl"
+ADDREQUIRES="python-axolotl python-gnupg"
 VERSION="0.16.7"
 DOWNLOAD="https://gajim.org/downloads/0.16/gajim-0.16.7.tar.bz2"
 MD5SUM="08d6fc3025977700e5bafde12cda36f4"
