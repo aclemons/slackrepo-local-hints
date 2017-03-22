@@ -1,3 +1,3 @@
-VERSION="1.13.0"
-DOWNLOAD_x86_64="https://static.rust-lang.org/dist/rust-1.13.0-x86_64-unknown-linux-gnu.tar.gz"
-MD5SUM_x86_64="5dbaf4968ff32ea09fe69741d3f031e9"
+VERSION="1.16.0"
+DOWNLOAD_x86_64="https://static.rust-lang.org/dist/rust-1.16.0-x86_64-unknown-linux-gnu.tar.gz"
+MD5SUM_x86_64="5effa7068c26151029432466235089a9"
