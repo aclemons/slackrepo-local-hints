@@ -1,1 +1,1 @@
-ADDREQUIRES="perl-AnyEvent-I3 i3status"
+ADDREQUIRES="i3status"
