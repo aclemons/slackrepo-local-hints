@@ -1,1 +1,4 @@
 ADDREQUIRES="spice"
+VERSION="2.9.1"
+DOWNLOAD="http://download.qemu-project.org/qemu-2.9.1.tar.xz"
+MD5SUM="b824596a06246f691212ba61c7d707c1"
