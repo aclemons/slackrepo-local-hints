@@ -1,7 +1,6 @@
 GROUPADD="209:postgres"
 USERADD="209:postgres:-d/var/lib/pgsql"
-OPTIONS="PG_EXTENSIONS=ALL"
+OPTIONS="PG_EXTENSIONS=ALL PG_VERSION=9.6"
 VERSION="9.6.7"
-PG_VERSION="9.6"
 DOWNLOAD="http://ftp.postgresql.org/pub/source/v9.6.7/postgresql-9.6.7.tar.bz2"
 MD5SUM="46c1593be57c1122c0313193ad2b9891"
