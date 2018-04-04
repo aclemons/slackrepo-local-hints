@@ -1,3 +1,4 @@
 VERSION="0.6.4"
 DOWNLOAD="https://dev.gajim.org/gajim/python-nbxmpp/uploads/a446c429896ba7c9b57bb0dafccb75e5/nbxmpp-0.6.4.tar.gz"
 MD5SUM="afce2668e812395b28178fa81e8b314e"
+ADDREQUIRES="python3"
