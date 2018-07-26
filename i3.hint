@@ -1,1 +1,1 @@
-ADDREQUIRES="i3status"
+ADDREQUIRES="i3status j4-dmenu-desktop"
