@@ -1,1 +1,2 @@
-ADDREQUIRES="python3"
+ADDREQUIRES="protobuf3"
+DELREQUIRES="protobuf"
