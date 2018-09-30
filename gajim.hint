@@ -1,4 +1,4 @@
-ADDREQUIRES="python-axolotl python-gnupg python-qrcode"
+ADDREQUIRES="python-axolotl python-gnupg python-qrcode cssutils"
 VERSION="1.1.0_beta1"
 DOWNLOAD="https://dev.gajim.org/gajim/gajim/-/archive/gajim-1.1.0-beta1/gajim-gajim-1.1.0-beta1.tar.bz2"
 MD5SUM="8de0d5bc16cf09b1d617c6068845dd07"
