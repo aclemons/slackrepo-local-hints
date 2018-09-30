@@ -1,4 +1,4 @@
 ADDREQUIRES="python-axolotl python-gnupg python-qrcode"
-VERSION="1.0.3"
-DOWNLOAD="https://dev.gajim.org/gajim/gajim/-/archive/gajim-1.0.3/gajim-gajim-1.0.3.tar.bz2"
-MD5SUM="3d7df6d8a3373cac21f731af4f5b1056"
+VERSION="1.1.0_beta1"
+DOWNLOAD="https://dev.gajim.org/gajim/gajim/-/archive/gajim-1.1.0-beta1/gajim-gajim-1.1.0-beta1.tar.bz2"
+MD5SUM="8de0d5bc16cf09b1d617c6068845dd07"
