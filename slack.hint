@@ -1,0 +1,3 @@
+DOWNLOAD_x86_64="https://downloads.slack-edge.com/linux_releases/slack-desktop-3.3.3-amd64.deb"
+VERSION="3.3.3"
+MD5SUM_x86_64="97eb4c74e4aacf7771c13b1493d6acc6"
