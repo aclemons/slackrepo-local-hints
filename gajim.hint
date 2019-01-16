@@ -1,4 +1,4 @@
 ADDREQUIRES="python-axolotl python-gnupg python-qrcode cssutils python-keyring secretstorage python-precis-i18n"
-VERSION="1.1.1"
-DOWNLOAD="https://dev.gajim.org/gajim/gajim/-/archive/gajim-1.1.1/gajim-gajim-1.1.1.tar.bz2"
-MD5SUM="a967e07a0a9e79525a637e2883ad6267"
+VERSION="1.1.2"
+DOWNLOAD="https://dev.gajim.org/gajim/gajim/-/archive/gajim-1.1.2/gajim-gajim-1.1.2.tar.bz2"
+MD5SUM="975b78556fc81ad44c23091e86ceb249"
