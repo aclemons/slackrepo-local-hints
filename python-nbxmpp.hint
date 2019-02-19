@@ -1,3 +1,3 @@
-VERSION="0.6.9"
-DOWNLOAD="https://dev.gajim.org/gajim/python-nbxmpp/-/archive/nbxmpp-0.6.9/python-nbxmpp-nbxmpp-0.6.9.tar.gz"
-MD5SUM="c765eb24a45e46103f2957161d574d6f"
+VERSION="0.6.10"
+DOWNLOAD="https://dev.gajim.org/gajim/python-nbxmpp/-/archive/nbxmpp-0.6.10/python-nbxmpp-nbxmpp-0.6.10.tar.gz"
+MD5SUM="9fe0d37bf21e2155f893659ccacbd19a"
