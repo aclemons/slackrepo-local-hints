@@ -1,1 +1,0 @@
-PRAGMA="$(case "$( uname -m )" in i?86) echo "unset_ARCH";; *) echo "" ;; esac)"
