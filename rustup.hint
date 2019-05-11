@@ -1,5 +1,5 @@
-VERSION="1.18.1"
-DOWNLOAD="https://github.com/rust-lang/rustup.rs/archive/1.18.1/rustup.rs-1.18.1.tar.gz \
+VERSION="1.18.2"
+DOWNLOAD="https://github.com/rust-lang/rustup.rs/archive/1.18.2/rustup.rs-1.18.2.tar.gz \
           https://crates-io.s3-us-west-1.amazonaws.com/crates/MacTypes-sys/MacTypes-sys-2.1.0.crate \
           https://crates-io.s3-us-west-1.amazonaws.com/crates/adler32/adler32-1.0.3.crate \
           https://crates-io.s3-us-west-1.amazonaws.com/crates/aho-corasick/aho-corasick-0.5.3.crate \
@@ -42,7 +42,7 @@ DOWNLOAD="https://github.com/rust-lang/rustup.rs/archive/1.18.1/rustup.rs-1.18.1
           https://crates-io.s3-us-west-1.amazonaws.com/crates/dirs/dirs-1.0.5.crate \
           https://crates-io.s3-us-west-1.amazonaws.com/crates/dtoa/dtoa-0.4.3.crate \
           https://crates-io.s3-us-west-1.amazonaws.com/crates/encoding_rs/encoding_rs-0.8.17.crate \
-          https://crates-io.s3-us-west-1.amazonaws.com/crates/env_proxy/env_proxy-0.3.0.crate \
+          https://crates-io.s3-us-west-1.amazonaws.com/crates/env_proxy/env_proxy-0.3.1.crate \
           https://crates-io.s3-us-west-1.amazonaws.com/crates/error-chain/error-chain-0.12.0.crate \
           https://crates-io.s3-us-west-1.amazonaws.com/crates/failure/failure-0.1.5.crate \
           https://crates-io.s3-us-west-1.amazonaws.com/crates/failure_derive/failure_derive-0.1.5.crate \
@@ -212,7 +212,7 @@ DOWNLOAD="https://github.com/rust-lang/rustup.rs/archive/1.18.1/rustup.rs-1.18.1
           https://crates-io.s3-us-west-1.amazonaws.com/crates/ws2_32-sys/ws2_32-sys-0.2.1.crate \
           https://crates-io.s3-us-west-1.amazonaws.com/crates/xattr/xattr-0.2.2.crate \
           https://crates-io.s3-us-west-1.amazonaws.com/crates/xz2/xz2-0.1.6.crate"
-MD5SUM="7075d3d622db2c6852a0234c62b2686a \
+MD5SUM="89a479858000e9dfa0dab3ea6f54959f \
         f63a2f7c3beae36d39efcd49aa758cc4 \
         94e5e4da83397101dcac50eba7f31787 \
         df727d9f2986c9874bec190bbc9f0021 \
@@ -255,7 +255,7 @@ MD5SUM="7075d3d622db2c6852a0234c62b2686a \
         f9f233221c0202b616d6957925c41ac8 \
         7df898854fe0cffd2e7ea284aff9f3df \
         5d49b7d2daebecaf57fb00d37d9fed92 \
-        fbdb7b79b8c0742a047700e1dd7ca296 \
+        ce4215be7c26d1b46a696d3674f1a9c2 \
         df1c731fb213423ae0e46e3ecd908716 \
         6d780ab18da07be9ed423e7edfbcfd7e \
         e8e663e88ee02ec47cfb984382cb62ae \
