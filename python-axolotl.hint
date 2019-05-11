@@ -1,2 +1,0 @@
-ADDREQUIRES="protobuf3"
-DELREQUIRES="protobuf"
