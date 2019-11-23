@@ -1,5 +1,5 @@
 GROUPADD="251:jenkins"
 USERADD="251:jenkins:-d/var/lib/jenkins:-s/bin/bash:-r"
-VERSION="2.190.2"
-DOWNLOAD="http://mirrors.jenkins.io/war-stable/2.190.2/jenkins.war"
-MD5SUM="d24e03a5fb92d4d9eb1828158df52737"
+VERSION="2.190.3"
+DOWNLOAD="http://mirrors.jenkins.io/war-stable/2.190.3/jenkins.war"
+MD5SUM="58a4c5b1fda7f9b853fc46b235e69297"
