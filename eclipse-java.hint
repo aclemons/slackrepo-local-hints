@@ -1,0 +1,4 @@
+VERSION="4.16"
+DOWNLOAD_x86_64="http://download.eclipse.org/technology/epp/downloads/release/2020-06/R/eclipse-java-2020-06-R-linux-gtk-x86_64.tar.gz"
+MD5SUM_x86_64="2c09d87e754f2e9078a7e9648613935a"
+OPTIONS="SRCVERSION=2020-06-R"
