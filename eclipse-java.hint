@@ -1,4 +1,4 @@
-VERSION="4.17"
-DOWNLOAD_x86_64="http://download.eclipse.org/technology/epp/downloads/release/2020-09/R/eclipse-java-2020-09-R-linux-gtk-x86_64.tar.gz"
-MD5SUM_x86_64="286dfbb40c01cc9c034819cbc6b110b0"
-OPTIONS="SRCVERSION=2020-09-R"
+VERSION="4.18"
+DOWNLOAD_x86_64="http://download.eclipse.org/technology/epp/downloads/release/2020-12/R/eclipse-java-2020-12-R-linux-gtk-x86_64.tar.gz"
+MD5SUM_x86_64="11191013a752c7dd60333918133ed494"
+OPTIONS="SRCVERSION=2020-12-R"
