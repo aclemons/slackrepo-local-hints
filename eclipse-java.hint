@@ -1,4 +1,0 @@
-VERSION="4.19"
-DOWNLOAD_x86_64="http://download.eclipse.org/technology/epp/downloads/release/2021-03/R/eclipse-java-2021-03-R-linux-gtk-x86_64.tar.gz"
-MD5SUM_x86_64="56669395653c3af763b46ca2950673b8"
-OPTIONS="SRCVERSION=2021-03-R"
