@@ -1,6 +1,0 @@
-GROUPADD="209:postgres"
-USERADD="209:postgres:-d/var/lib/pgsql"
-OPTIONS="PG_EXTENSIONS=ALL PG_VERSION=10.17"
-VERSION="10.17"
-DOWNLOAD="http://ftp.postgresql.org/pub/source/v10.17/postgresql-10.17.tar.gz"
-MD5SUM="db221f79265f849616d719f3fe168d44"
