@@ -1,1 +1,1 @@
-ADDREQUIRES="spice libseccomp"
+ADDREQUIRES="spice"
