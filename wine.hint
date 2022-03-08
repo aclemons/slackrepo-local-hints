@@ -1,1 +1,1 @@
-OPTIONS="WIN64=yes"
+OPTIONS="WIN32=yes WIN64=yes"
