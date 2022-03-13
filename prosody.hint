@@ -1,7 +1,7 @@
 GROUPADD="274:prosody"
 USERADD="274:prosody:-d/var/lib/prosody:-s/sbin/nologin"
 ADDREQUIRES="luadbi luaevent luarocks lua-zlib luajit"
-DOWNLOAD="https://prosody.im/downloads/source/prosody-0.11.9.tar.gz"
-MD5SUM="be7e1c66c06b0eb4bdce37b67bcc6b51"
-VERSION="0.11.9"
+DOWNLOAD="https://prosody.im/downloads/source/prosody-0.11.13.tar.gz"
+MD5SUM="7214ee57d4702585bd0d3428e69790b4"
+VERSION="0.11.13"
 
