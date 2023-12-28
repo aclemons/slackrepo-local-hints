@@ -1,1 +1,1 @@
-ADDREQUIRES="python-axolotl python-gnupg python-qrcode"
+ADDREQUIRES="gspell gst-plugins-ugly"
