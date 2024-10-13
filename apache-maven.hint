@@ -1,0 +1,2 @@
+DELREQUIRES="zulu-openjdk8"
+ADDREQUIRES="zulu-openjdk21"
